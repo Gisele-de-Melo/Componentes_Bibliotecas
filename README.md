@@ -1,4 +1,4 @@
-# Componentes e Bibliotecas
+# Components and Libraries / Componentes e Bibliotecas
  - Example of using Delphi components.
  - Exemplo do uso de componentes do Delphi.
 
